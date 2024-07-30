@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-30T11:16:43.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eQ5dzsyqGnr7BqpN4_nJ" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-30T11:31:25.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eBwtNbAp8kOU7OuHFOzX" version="24.6.5" type="github">
   <diagram name="第 1 页" id="mvP9hgw5OhRqE8Y1hkNj">
     <mxGraphModel dx="6480" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DPH8ut8o0tE_e3mcPr0a-17" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;state-&amp;gt;prox_state == PRX_NEAR_BY &amp;amp;&amp;amp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;state-&amp;gt;gesture_state == MOTION_DOWN&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;远离&amp;amp;有放下动作&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=11;container=0;" parent="q0KccbDD00Mu1ACWChZq-240" vertex="1">
+        <mxCell id="DPH8ut8o0tE_e3mcPr0a-17" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;state-&amp;gt;prox_state == PRX_NEAR_BY &amp;amp;&amp;amp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;state-&amp;gt;gesture_state == MOTION_DOWN&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;接近&amp;amp;有放下动作&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=11;container=0;" parent="q0KccbDD00Mu1ACWChZq-240" vertex="1">
           <mxGeometry x="20" y="580" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DPH8ut8o0tE_e3mcPr0a-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="q0KccbDD00Mu1ACWChZq-240" source="DPH8ut8o0tE_e3mcPr0a-19" target="DPH8ut8o0tE_e3mcPr0a-21" edge="1">
